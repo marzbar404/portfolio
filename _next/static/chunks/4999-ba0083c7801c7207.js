@@ -1159,7 +1159,7 @@
                         }) : !a.success || h || u ? u ? (0, n.jsx)("div", {
                             className: o().discordLoading,
                             children: (0, n.jsxs)("h1", {
-                                children: [g.A.discord, " Loading Discord Presence..."]
+                                children: [g.A.discord, " marbar_404 on discord"]
                             })
                         }) : (0, n.jsxs)("div", {
                             className: o().discordNotConnected,
@@ -2940,7 +2940,7 @@
                         }) : !a.success || x || m ? m ? (0, n.jsx)("div", {
                             className: eu().discordLoading,
                             children: (0, n.jsxs)("h1", {
-                                children: [g.A.discord, " Loading Discord Presence..."]
+                                children: [g.A.discord, " marzbar_404 on disc"]
                             })
                         }) : (0, n.jsxs)("div", {
                             className: eu().discordNotConnected,
